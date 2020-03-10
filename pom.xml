@@ -67,7 +67,7 @@
 						</property>
 					</properties> -->
 					<suiteXmlFiles>
-						<suiteXmlFile>src/test/java/com/cucumber/framework/testng/testng.xml</suiteXmlFile>
+						<suiteXmlFile>C:/Users/jsahoo006/git/SeleniumCucumber/testng.xm</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 				<dependencies>
