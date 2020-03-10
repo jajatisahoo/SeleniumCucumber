@@ -9,7 +9,7 @@ Feature: Adding a laptop to the Cart
     Then : I select the "APPLE MacBook Pro Retina" with description as "15-inch, 256GB"
     And : Add it to the cart
     Then : Navigate to user details page and provide the following details
-      | Destination | Singapore  |
+      | Destination | Singapor  |
       | Airline     | AirAsia    |
       | FlightNo    | A089       |
       | FlightDate  | 24/08/2016 |
